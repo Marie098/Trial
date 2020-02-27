@@ -1,0 +1,28 @@
+
+title:"Untitled"
+output: html_document
+---
+#Long computation
+```{r mylongcode, cache=TRUE, dependson=}
+a=2 
+
+```
+
+
+```{r}
+(b=2*a)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
